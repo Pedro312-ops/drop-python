@@ -4,5 +4,6 @@ print(f'{numeros:,}')
 
 # f' ( serve para separar de forma automatica os 0 do mumero)
 # numeors: , especifica o que vc quer que separe
+# :,  espefica com oq vc quer que separe os numeros
 
 100,000,000,000
